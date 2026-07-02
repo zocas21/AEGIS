@@ -1,0 +1,8 @@
+name = "aegis-federal-systems"
+compatibility_date = "2024-11-12"
+
+[assets]
+directory = "./dist"
+
+[build]
+command = "npm run build"

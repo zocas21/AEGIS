@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Federal Systems",
+  "description": "Enterprise-grade cybersecurity, secure infrastructure, and digital transformation services for the U.S. government, defense, intelligence, and high-security commercial sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
